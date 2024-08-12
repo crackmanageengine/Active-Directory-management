@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="ADSelfService Plus Demo" EmailID=" crackmanageengine@gmail.com" ExpiryDate="2025-03-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGfJTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdupSGeNSfuPXXfyRT3cfXf1bQJRpXG1b9nP77yRxcfVJ7fbDpKdb39zbJ9cS7zyDTnVxxAblpd1P7xPJV" LicenseType="Registered" Name="ADSelfService Plus Demo" UnlockFeatures="Full">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ADSelfService Plus" Type="Professional" Version="6.0"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="1000000"/>
+      </Component>
+      <Component Name="DomainUsers">
+         <Properties Name="NumberOfUsers" Value="1000000"/>
+      </Component>
+      <Component Name="EndpointMFA">
+         <Properties Name="ALL_FEATURES" Value="true"/>
+         <Properties Name="NumberOfUsers" Value="1000000"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>0000001sRvswFORvQmKnvKR4ogrwtAgf7llAAfM4N8jHGNg0000001sRvswFORvQmKnsRvswN8Xmjd0000001sN8XmjdFORvQmKnsN8XmjdGRXGNX4oLXNj8ssvFjRp0I6sKLpsvY83RvoFLvodAdjdj</LicenseKey>
+</License>
