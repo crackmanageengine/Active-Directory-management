@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Exchange Reporter Plus Demo" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-03-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGfJTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndTT97KDlc3GSNTTnJb9QaSSGRbp91bQJRpXG1b9nP77yexpdcR71zlpfNJxA1DpnJX7KNcAnJ7pA1bVuQQGaPlZGdQ7Kdla" LicenseType="Registered" Name="Exchange Reporter Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="ManageEngine Exchange Reporter Plus" Type="Standard" Version="4.0.0"/>
+      <Component Name="Servers">
+         <Properties Name="NumberOfServers" Value="unlimited"/>
+      </Component>
+      <Component Name="LicenseDetails">
+         <Properties Name="LicensedProductName" Value="ManageEngine Log360"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>06VijlsvN8iNgviXNXMvmXn4YKGjRpGvsNvY8lsL8X4vdvsNvY8lGv48m8LNKsRv3RvoFORvQmKnsRv3RvoMgOGRXGNX4o0I0ITsKLpsRv4RjHvrsviNXCY2gsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
